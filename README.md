@@ -21,6 +21,7 @@ Or manually:
     apt-get install -y gcc libqrencode-dev libpng-dev
   ```
   After these 3 packages are fully installed, it is time to compile the qr_generator.c file:
+  
   To do this, enter:
   ```bash
   gcc qr_generator.c -o QR -lqrencode -lpng
@@ -35,8 +36,13 @@ To create a QR code, run the QR program and execute the following commands (whic
 ./QR <url> <output.png>
 ```
 Where url is the link where you want to save the QR code in the output.png file. 
-Note that the program is written so that the output file format is png.
-example :
+
+Note: that the program is written so that the output file format is png.
+
+for example:
 ```bash
 ./QR https://github.com/mehmetlotfi qr_code.png
 ```
+## Mehmet Lotfi
+## Youtube  Channel : @Khorshid_Computer
+## Telegram Channel : @Source_Code_Store
