@@ -1,4 +1,4 @@
-## 🚀 How to Build
+## 🚀 How to Compile & Run
 
 To compile the project, use the provided script:
 
