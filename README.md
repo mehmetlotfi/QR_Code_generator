@@ -10,7 +10,10 @@ Or manually:
 
   Requirements:
   1- C compiler (like gcc)
+  
   2- Standard C libraries for working with QR code and png format called libqrencode-dev and libpng-dev.
+
+  
   Install these according to your package manager, for example for Debian based systems with root privilege:
 
   ```bash
