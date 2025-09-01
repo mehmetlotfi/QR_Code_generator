@@ -9,12 +9,12 @@ sudo ./compile.sh
 Or manually:
 
   Requirements:
-  1- C compiler (preferably gcc)
+  1- C compiler (like gcc)
   2- Standard C libraries for working with QR code and png format called libqrencode-dev and libpng-dev.
   Install these according to your package manager, for example for Debian based systems with root privilege:
 
 ```bash
-apt install -y gcc libqrencode-dev libpng-dev
+apt-get install -y gcc libqrencode-dev libpng-dev
 ```
 
 After running, the QR executable file is ready for you.
