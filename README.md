@@ -9,6 +9,7 @@ sudo ./compile.sh
 Or manually:
 
   Requirements:
+  
   1- C compiler (like gcc)
   
   2- Standard C libraries for working with QR code and png format called libqrencode-dev and libpng-dev.
